@@ -1,0 +1,96 @@
+body
+{
+	background-image: url("john.jpg");
+	background-repeat: no-repeat;
+	background-position: center 10%;
+}
+
+.titulo
+{
+	background-color: white;
+	opacity: 0.8;
+	width: 94.8%;
+	font-size: 25px;
+	font-family: impact;
+	color: black;
+}
+
+.d1
+{
+	background-color: black;
+	color: white;
+	position: absolute;
+	opacity: 0.6;
+	top: 20%;
+	left: 38%;
+	font-family: impact;
+}
+.d1:hover
+{
+	position: absolute;
+	background-image: url(i1.png);
+	width: 48%;
+	height: 80%;
+	opacity: 0.8;
+	color: #898A95;
+}
+
+.d2
+{
+	position: absolute;
+	background-color: black;
+	color: white;
+	opacity: 0.6;
+	top: 25%;
+	left: 65%;
+	font-family: impact;
+}
+.d2:hover
+{
+	position: absolute;
+	background-image: url(i2.png);
+	width: 31%;
+	height: 60%;
+	opacity: 0.8;
+	color: #898A95;
+}
+
+.d3
+{
+	background-color: black;
+	color: white;
+	position: absolute;
+	opacity: 0.6;
+	top: 30%;
+	left: 15%;
+	font-family: impact;
+}
+.d3:hover
+{
+	position: absolute;
+	background-image: url(i3.png);
+	width: 45%;
+	height: 60%;
+	opacity: 0.8;
+	color: #898A95;
+}
+
+.d4
+{
+	background-color: black;
+	color: white;
+	position: absolute;
+	opacity: 0.6;
+	top: 60%;
+	left: 40%;
+	font-family: impact;
+}
+.d4:hover
+{
+	position: absolute;
+	background-image: url(i4.png);
+	width: 23%;
+	height: 36%;
+	opacity: 0.9;
+	color: #898A95;
+}
